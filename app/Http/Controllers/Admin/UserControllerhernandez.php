@@ -22,7 +22,7 @@ class UserControllerhernandez extends Controller
 
     public function show( User $usershowid)
     {
-    	
+    	 
     	return view('admin.users.show')->with(compact('usershowid')); //Listado; //formularios de registro
     }
      public function banned($bannerid)

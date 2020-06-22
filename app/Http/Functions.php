@@ -1,5 +1,4 @@
-
-    <?php 
+<?php 
 
 // para que sirva este archivo hay que crear un dentro la carpeta app de nuestro proyecto
 // con el nombre Functions.php estara junto al archivo Kernel del proyecto e irnos al archivo composer.json
